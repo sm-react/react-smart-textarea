@@ -186,6 +186,10 @@ addDecorator((story) => (
       <h4>Smart Textarea </h4>
       {story()}
       <br /><br /><br /><br /><hr />
+       <a href="https://badge.fury.io/gh/sm-react%2Freact-smart-textarea" target="_blank">
+        <img src="https://badge.fury.io/gh/sm-react%2Freact-smart-textarea.svg" alt="sm-react" />
+      </a>
+      <spaun> </spaun>
        <a href="https://github.com/sm-react" target="_blank">
         <img src="https://img.shields.io/badge/github-smARTLight-red.svg" alt="sm-react" />
       </a>
@@ -194,9 +198,7 @@ addDecorator((story) => (
         <img src="https://img.shields.io/badge/github-UsulPro-blue.svg" alt="UsulPro" />
       </a>
       <spaun> </spaun>
-      <a href="https://github.com/sm-React/react-smart-textarea" target="_blank">
-        <img src="https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork&maxAge=2592000" alt="fork" />
-      </a>
+
 
       {/*
       [![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/sm-React/react-smart-textarea)
@@ -419,9 +421,7 @@ storiesOf('SmartTextarea', module)
       </div>
     );
   })
-  .add('Null test', () => {
-     return <p>Hello</p>
-   })
+
 
 
 const chromeStyle = {
