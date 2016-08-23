@@ -1,0 +1,20 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "arrow-body-style": 0,
+    "prefer-arrow-callback": 0,
+    "func-names": 0,
+    "eqeqeq": 1,
+    "react/jsx-no-bind": 1,
+    "react/jsx-uses-react": 1,
+    "react/prefer-stateless-function": 0,
+    // indentation
+    "indent": [ 2, 4 ],
+  },
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "ecmaFeatures": {
+      "experimentalObjectRestSpread": true
+    }
+  }
+}
