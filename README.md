@@ -1,5 +1,5 @@
 [![GitHub version](https://badge.fury.io/gh/sm-react%2Freact-smart-textarea.svg)](https://badge.fury.io/gh/sm-react%2Freact-smart-textarea)
-[![@airbnb](https://img.shields.io/badge/code%20style-Airbnb-brightgreen.svg)](https://github.com/airbnb/javascript)
+[![@airbnb](https://img.shields.io/badge/code%20style-Airbnb-brightgreen.svg)](https://github.com/sm-react/react-smart-textarea/blob/development/.eslintrc)
 [![@UsulPro](https://img.shields.io/badge/github-UsulPro-blue.svg)](https://github.com/UsulPro)
 [![@sm-react](https://img.shields.io/badge/github-smARTLight-red.svg)](https://github.com/sm-react)
 [![Coverage Status](https://coveralls.io/repos/github/sm-react/react-smart-textarea/badge.svg?branch=master)](https://coveralls.io/github/sm-react/react-smart-textarea?branch=master)
