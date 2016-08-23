@@ -12,4 +12,30 @@ React textarea: easy, transparent textarea component for ReactJS (autoheight, ad
 https://sm-react.github.io/react-smart-textarea/
 
 ## Usage
-import SmartTextarea from './SmartTextarea.jsx';
+~~~jsx
+import SmTextarea from 'SmartTextarea.jsx';
+~~~
+#### simple
+~~~jsx
+<SmTextarea 
+  onChange={(e) => console.log(e)}
+/>
+~~~
+
+#### set hint text
+~~~jsx
+<SmTextarea
+  onChange={(e) => console.log(e)} 
+  hintText="enter text here"
+/>
+~~~
+
+#### some style
+~~~jsx
+<SmTextarea
+        style={{border: "solid 1px rgb(169, 169, 169)", padding: {4}, paddingLeft: {8}, …}}
+        styleMouseOver={{}}
+        styleFocus={{outlineColor: "rgb(77, 144, 254)", outlineOffset: {-2}, outlineStyle: "auto", …}}
+        hintText="chrome style"
+      />
+~~~
