@@ -294,6 +294,7 @@ class SmartTextarea extends Component {
 
 SmartTextarea.propTypes = propTypes;
 SmartTextarea.defaultProps = defaultProps;
+SmartTextarea.displayName = 'SmartTextarea';
 
 export default SmartTextarea;
 
