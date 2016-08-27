@@ -2,8 +2,6 @@
 [![@airbnb](https://img.shields.io/badge/code%20style-Airbnb-brightgreen.svg)](https://github.com/sm-react/react-smart-textarea/blob/development/.eslintrc)
 [![@UsulPro](https://img.shields.io/badge/github-UsulPro-blue.svg)](https://github.com/UsulPro)
 [![@sm-react](https://img.shields.io/badge/github-smARTLight-red.svg)](https://github.com/sm-react)
-[ ![Codeship Status for sm-react/react-smart-textarea](https://codeship.com/projects/88a09fa0-471d-0134-a2ae-0a0a8703cfb0/status?branch=master)](https://codeship.com/projects/169096)
-
 [![sm-artlight.slack.com](https://img.shields.io/badge/slack%20-%20smARTLight%20-red.svg)](https://sm-artlight.slack.com)
 
 
@@ -43,3 +41,7 @@ import SmTextarea from 'SmartTextarea.jsx';
         hintText="chrome style"
       />
 ~~~
+
+
+###
+[ ![Codeship Status for sm-react/react-smart-textarea](https://codeship.com/projects/88a09fa0-471d-0134-a2ae-0a0a8703cfb0/status?branch=master)](https://codeship.com/projects/169096)
